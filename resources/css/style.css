@@ -1,1 +1,34 @@
-style.css
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+  background-image: url("c:/cygwin64/home/rebecca/broadway/resources/images/the-flatiron-building.png");
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+h6 {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+p {
+  font-size: 14px;
+}
+a {
+  font-size: 18px;
+  color: white;
+}
+.header2 {
+  color: white;
+  background-image: url("c:/cygwin64/home/rebecca/broadway/resources/images/the-flatiron-building.png");
+}
