@@ -33,3 +33,6 @@ h3.header2 {
   color: white;
   background-image: url("../images/the-flatiron-building.png");
 }
+a.footer {
+  font-size: 11px;
+}
