@@ -6,7 +6,7 @@ h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
-  background-image: url("c:/cygwin64/home/rebecca/broadway/resources/images/the-flatiron-building.png");
+  background-image: url("./resources/images/the-flatiron-building.png");
 }
 h2 {
   font-size: 32px;
@@ -16,7 +16,7 @@ h3 {
   font-size: 23px;
   font-weight: bold;
 }
-h6 {
+.footer {
   font-size: 11px;
   color: white;
   background-color: dimgray;
@@ -29,7 +29,7 @@ a {
   font-size: 18px;
   color: white;
 }
-.header2 {
+h3.header2 {
   color: white;
-  background-image: url("c:/cygwin64/home/rebecca/broadway/resources/images/the-flatiron-building.png");
+  background-image: url("./resources/images/the-flatiron-building.png");
 }
